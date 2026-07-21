@@ -1,4 +1,4 @@
-# Excel — Retail Sales & Inventory Dashboard
+# Excel & Spreadsheets — Retail Sales & Inventory Dashboard
 
 An end-to-end Excel analytics project for a fictional retail brand ("The Souled Store" practice dataset), covering the full retail data lifecycle — raw sales data, data cleaning, inventory tracking, and an interactive dashboard.
 
