@@ -11,6 +11,7 @@ Data-Analytics-Portfolio
 │
 ├── 📁 Power BI              → Interactive dashboards & business intelligence reports
 ├── 📁 SQL                   → Data exploration & analysis using SQL Server
+├── 📁 Excel                 → Formula-based reporting, PivotTables & dashboards
 ├── 📁 Python Analytics      → Data cleaning, statistics, and exploratory analysis
 └── 📁 Machine Learning      → Predictive modeling, computer vision & NLP projects
 ```
@@ -26,6 +27,11 @@ Data-Analytics-Portfolio
 | Project | Description |
 |---|---|
 | **Covid Portfolio Project** | End-to-end COVID-19 data exploration in SQL Server covering joins, CTEs, temp tables, views, stored procedures, window functions, running totals, and moving averages on the `CovidDeaths` and `CovidVaccinations` datasets. |
+
+## 📗 Excel
+| Project | Description |
+|---|---|
+| **Retail Sales & Inventory Dashboard** | End-to-end retail analytics workbook (fictional "Souled Store" dataset) — order & inventory data, supplier/warehouse tracking, MIS reports (`SUMIFS`-based), PivotTables, and a KPI dashboard (Revenue, Profit, AOV, Profit Margin %, Return Rate %). |
 
 ## 🐍 Python Analytics
 | Project | Description |
